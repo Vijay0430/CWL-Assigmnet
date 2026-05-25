@@ -1,0 +1,4 @@
+sudo useradd monitoruser
+sudo mkdir -p /opt/container-monitor/logs
+sudo chown -R monitoruser:monitoruser /opt/container-monitor
+sudo chmod -R 700 /opt/container-monitor
