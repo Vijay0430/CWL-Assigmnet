@@ -6,6 +6,17 @@ Configured secure SSH access to EC2 instance using PEM key authentication
 ## Commands Used
 ssh -i mykey.pem ec2-user@public-ip
 
+
+##-----
+"Implemented SSH Key-based secure acess on Linux server "    
+
+
+
+
+
+
+
+
 ## Walkthrough Video
 
 Google Drive Link:
