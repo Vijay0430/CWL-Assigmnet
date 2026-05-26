@@ -15,5 +15,9 @@ Used AWS EC2 Security Group as firewall and added inbound rules for:
 - Port 8000 (Application)
 
 
-Video Link
+## Alternative Used
+AWS Security Groups were used instead of iptables/UFW for firewall configuration.
+
+
+## Video Reference
 google drive link:https://drive.google.com/file/d/1qefG7tANLR5rQHfpwYgZ0W-OK5uAx1jj/view?usp=drive_link
